@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rajadshakya/Desktop/bce_c/lab10/output/q2'
+relocations:     []
+...
